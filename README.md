@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://zonely.gen.tr" target="_blank">
-    <img src="imgs/banner.png" alt="Zonely" width="100%" />
+    <img src="https://builtbybit.com/attachments/demo-png.1074137" alt="Zonely" width="100%" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img src="imgs/main2.jpg" alt="Zonely Platform Overview" width="100%" />
+  <img src="https://i.hizliresim.com/kuflf8h.jpg" alt="Zonely Platform Overview" width="100%" />
 </p>
 
 ---
