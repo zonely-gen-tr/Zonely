@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://zonely.gen.tr" target="_blank">
-    <img src="https://builtbybit.com/attachments/demo-png.1074137" alt="Zonely" width="100%" />
+    <img src="https://builtbybit.com/attachments/rebornas-1-png.1212157" alt="Zonely" width="100%" />
   </a>
 </p>
 
