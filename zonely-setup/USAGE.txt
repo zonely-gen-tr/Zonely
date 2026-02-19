@@ -1,0 +1,32 @@
+﻿Zonely - Launch Guide
+
+What is Zonely?
+Zonely is a command-line tool to manage your Zonely account and licenses. It lets you log in or register, list and view licenses, update domain, run auto-setup, download SQL dumps, generate AuthMe config, view DB credentials, buy new licenses, and verify Discord roles.
+
+Required files in the same folder:
+- zonely.ps1
+- zonely.bat (Windows)
+- zonely.sh (macOS/Linux)
+
+Windows
+1) Double-click: zonely.bat
+2) Or run from Command Prompt/PowerShell:
+   zonely.bat
+
+macOS
+1) Open Terminal
+2) Go to the folder
+3) First time only, grant execute permission:
+   chmod +x ./zonely.sh
+4) Launch:
+   ./zonely.sh
+
+Linux
+1) Open Terminal
+2) Go to the folder
+3) First time only, grant execute permission:
+   chmod +x ./zonely.sh
+4) Launch:
+   ./zonely.sh
+
+Note: PowerShell (pwsh) must be installed on macOS/Linux.
