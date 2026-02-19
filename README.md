@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="imgs/main.png" alt="Zonely Platform Overview" width="100%" />
+  <img src="imgs/main2.jpeg" alt="Zonely Platform Overview" width="100%" />
 </p>
 
 ---
